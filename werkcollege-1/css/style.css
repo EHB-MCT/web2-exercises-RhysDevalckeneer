@@ -67,6 +67,20 @@ form button {
     cursor: pointer;
 }
 
+#error {
+    background-color: #FEE2E2;
+    color: #EF4444;
+    font-size: 13px;
+    width: 100%;
+    border-radius: 6px;
+    padding: .7rem;
+    display: none;
+}
+
+#error p i {
+    margin-right: .45rem;
+}
+
 #displayOrder {
 margin-top: 1.5rem;
 line-height: 1.6em;}
