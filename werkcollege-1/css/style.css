@@ -49,6 +49,10 @@ form input {
     padding: .5rem .7rem;
 }
 
+form input.text-input {
+    width: 100%;
+}
+
 form input::placeholder {
     color: #D1D5DB;
 }
