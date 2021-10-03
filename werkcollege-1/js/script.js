@@ -26,7 +26,7 @@ window.onload = function () {
     for (let dish of dishes) {
         console.log(dish);
 
-        document.getElementById('form').insertAdjacentHTML('beforeend', `
+        document.getElementById('dishes').insertAdjacentHTML('beforeend', `
         <input type="radio" id="${dish.id}" name="dish" value="${dish.name}">
         <label label for= "dish">${dish.name}</label ><br>`);
     }
