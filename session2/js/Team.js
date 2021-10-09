@@ -7,7 +7,7 @@ export default class Team {
     };
 
     describe() {
-        console.log('describe');
+        // console.log('describe');
         return `Team ${this.teamName} with trainer ${this.trainer} has the following pokemon: ${[...this.roster]}`;
     }
 }
