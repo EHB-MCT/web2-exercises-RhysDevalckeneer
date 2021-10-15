@@ -1,26 +1,30 @@
 "use strict";
 
+// Dishes array
+let dishes = [
+    {
+        "id": 1,
+        "name": "Big Kahuna Burger",
+        "price": 12
+    },
+    {
+        "id": 2,
+        "name": "Royal with Cheese",
+        "price": 8
+    },
+    {
+        "id": 3,
+        "name": "Jack Rabbit Slim's $5 Shake",
+        "price": 5
+    },
+];
+
+let changeLocation = () => {
+    window.location.href = "./"
+}
+
 window.onload = function () {
     console.log('Window is fully loaded!');
-
-    // Dishes array
-    let dishes = [
-        {
-            "id": 1,
-            "name": "Big Kahuna Burger",
-            "price": 12
-        },
-        {
-            "id": 2,
-            "name": "Royal with Cheese",
-            "price": 8
-        },
-        {
-            "id": 3,
-            "name": "Jack Rabbit Slim's $5 Shake",
-            "price": 5
-        },
-    ];
 
     // Loop over array data
     for (let dish of dishes) {
@@ -46,8 +50,12 @@ window.onload = function () {
         // Returns order
         let printOrder = () => {
             return `The order for the customer <strong>${customerName}</strong> is the following: <strong>${customerOrder}</strong>.<br />The customer may be notified by email: <strong>${customerEmail}</strong>
-            <button id="anotherOrder">Place another order</button>`;
+            <button id="anotherOrder" onClick="changeLocation();">Place another order</button>`;
         }
+
+        
+
+        
 
         // Remove form & display order
         document.getElementById("form").style.display = "none";

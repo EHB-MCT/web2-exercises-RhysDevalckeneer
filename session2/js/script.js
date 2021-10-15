@@ -23,7 +23,8 @@ function getData() {
                     pokemon.push(data);
                 })
             }
-        });
+        }
+    );
 }
 
 window.onload = function() {
