@@ -11,11 +11,11 @@ Github: [https://github.com/EHB-MCT/web2-exercises-RhysDevalckeneer/tree/main/we
 
 ### Werkcollege 2
 
-Github: [ttps://github.com/EHB-MCT/web2-exercises-RhysDevalckeneer/tree/main/werkcollege-2](ttps://github.com/EHB-MCT/web2-exercises-RhysDevalckeneer/tree/main/werkcollege-2)
+Github: [https://github.com/EHB-MCT/web2-exercises-RhysDevalckeneer/tree/main/werkcollege-2](https://github.com/EHB-MCT/web2-exercises-RhysDevalckeneer/tree/main/werkcollege-2)
 
 ### Werkcollege 3
 
-[ttps://github.com/EHB-MCT/web2-exercises-RhysDevalckeneer/tree/main/werkcollege-3](ttps://github.com/EHB-MCT/web2-exercises-RhysDevalckeneer/tree/main/werkcollege-3)
+[https://github.com/EHB-MCT/web2-exercises-RhysDevalckeneer/tree/main/werkcollege-3](https://github.com/EHB-MCT/web2-exercises-RhysDevalckeneer/tree/main/werkcollege-3)
 
 ### Werkcollege 4
 TBD
