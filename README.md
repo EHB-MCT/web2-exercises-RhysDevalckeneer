@@ -10,10 +10,12 @@ Other code from previous exercises can be found in [here](https://github.com/EHB
 Github: [https://github.com/EHB-MCT/web2-exercises-RhysDevalckeneer/tree/main/werkcollege-1](https://github.com/EHB-MCT/web2-exercises-RhysDevalckeneer/tree/main/werkcollege-1)
 
 ### Werkcollege 2
-TBD
+
+Github: [ttps://github.com/EHB-MCT/web2-exercises-RhysDevalckeneer/tree/main/werkcollege-2](ttps://github.com/EHB-MCT/web2-exercises-RhysDevalckeneer/tree/main/werkcollege-2)
 
 ### Werkcollege 3
-TBD
+
+[ttps://github.com/EHB-MCT/web2-exercises-RhysDevalckeneer/tree/main/werkcollege-3](ttps://github.com/EHB-MCT/web2-exercises-RhysDevalckeneer/tree/main/werkcollege-3)
 
 ### Werkcollege 4
 TBD
