@@ -12,5 +12,8 @@
   "devDependencies": {
     "webpack": "^5.62.1",
     "webpack-cli": "^4.9.1"
+  },
+  "dependencies": {
+    "cleave.js": "^1.6.0"
   }
 }
