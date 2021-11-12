@@ -5,24 +5,49 @@
 import Cleave from 'cleave.js';
 require('cleave.js/dist/addons/cleave-phone.be');
 
+import data from 'course.json';
+
 window.onload = function () {
     console.log('Loaded');
 
-    document.getElementById('form').addEventListener('submit', event => {
-        event.preventDefault();
-    
-        let name = document.getElementById('name').value;
-        console.log('Clicked!');
-
-        new Cleave('.name', {
-            phone: true,
-            phoneRegionCode: 'BE'
-        });
-        console.log(name);
+    var name = new Cleave ('.name', {
+        numeral: false,
+        uppercase: true
     });
 
-    
-    
+    var birthdate = new Cleave ('.birthdate', {
+        date: true,
+        delimiter: '-',
+        datePattern: ['d','m','Y']
+    });
+
+    const ctx = document.getElementById('myChart').getContext('2d');
+    const cfg = {
+        type: 'bar',
+        data: {
+            labels: ['Jan', 'Feb'],
+            datasets: [{
+                label: 'Net sales',
+                data: data,
+                parsing: {
+                    yAxisKey: 'net'
+                }
+            }, {
+                label: 'Cost of goods sold',
+                data: data,
+                parsing: {
+                    yAxisKey: 'cogs'
+                }
+            }, {
+                label: 'Gross margin',
+                data: data,
+                parsing: {
+                    yAxisKey: 'gm'
+                }
+            }]
+        },
+    };
+
 }
 
 

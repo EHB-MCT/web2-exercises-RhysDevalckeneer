@@ -1,0 +1,21 @@
+{
+    "student": "Mike Derycke",
+    "courses": [
+        {
+            "name": "DEV IV",
+            "hype": 10
+        },
+        {
+            "name": "Frontend",
+            "hype": 8
+        },
+        {
+            "name": "Backend",
+            "hype": 3
+        },
+        {
+            "name": "Full Projects",
+            "hype": 7
+        }
+    ]
+}
