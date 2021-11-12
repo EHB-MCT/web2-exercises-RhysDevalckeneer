@@ -15,10 +15,10 @@ Github: [https://github.com/EHB-MCT/web2-exercises-RhysDevalckeneer/tree/main/we
 
 ### Werkcollege 3
 
-[https://github.com/EHB-MCT/web2-exercises-RhysDevalckeneer/tree/main/werkcollege-3](https://github.com/EHB-MCT/web2-exercises-RhysDevalckeneer/tree/main/werkcollege-3)
+Github: [https://github.com/EHB-MCT/web2-exercises-RhysDevalckeneer/tree/main/werkcollege-3](https://github.com/EHB-MCT/web2-exercises-RhysDevalckeneer/tree/main/werkcollege-3)
 
 ### Werkcollege 4
-TBD
+Github: [https://github.com/EHB-MCT/web2-exercises-RhysDevalckeneer/tree/main/werkcollege-4](https://github.com/EHB-MCT/web2-exercises-RhysDevalckeneer/tree/main/werkcollege-4)
 
 ### Werkcollege 5
 TBD
